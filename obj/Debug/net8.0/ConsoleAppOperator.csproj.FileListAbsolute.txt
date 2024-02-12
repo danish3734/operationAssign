@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ConsoleAppOperator\ConsoleAppOperator\bin\Debug\net8.0\ConsoleAppOperator.exe
+C:\Users\User\source\repos\ConsoleAppOperator\ConsoleAppOperator\bin\Debug\net8.0\ConsoleAppOperator.deps.json
+C:\Users\User\source\repos\ConsoleAppOperator\ConsoleAppOperator\bin\Debug\net8.0\ConsoleAppOperator.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleAppOperator\ConsoleAppOperator\bin\Debug\net8.0\ConsoleAppOperator.dll
+C:\Users\User\source\repos\ConsoleAppOperator\ConsoleAppOperator\bin\Debug\net8.0\ConsoleAppOperator.pdb
+C:\Users\User\source\repos\ConsoleAppOperator\ConsoleAppOperator\obj\Debug\net8.0\ConsoleAppOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleAppOperator\ConsoleAppOperator\obj\Debug\net8.0\ConsoleAppOperator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleAppOperator\ConsoleAppOperator\obj\Debug\net8.0\ConsoleAppOperator.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleAppOperator\ConsoleAppOperator\obj\Debug\net8.0\ConsoleAppOperator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleAppOperator\ConsoleAppOperator\obj\Debug\net8.0\ConsoleAppOperator.dll
+C:\Users\User\source\repos\ConsoleAppOperator\ConsoleAppOperator\obj\Debug\net8.0\refint\ConsoleAppOperator.dll
+C:\Users\User\source\repos\ConsoleAppOperator\ConsoleAppOperator\obj\Debug\net8.0\ConsoleAppOperator.pdb
+C:\Users\User\source\repos\ConsoleAppOperator\ConsoleAppOperator\obj\Debug\net8.0\ConsoleAppOperator.genruntimeconfig.cache
+C:\Users\User\source\repos\ConsoleAppOperator\ConsoleAppOperator\obj\Debug\net8.0\ref\ConsoleAppOperator.dll
